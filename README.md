@@ -1,4 +1,10 @@
 # minimal-php-v1
 
-## Note
-- MVCライクな素のPHP
+## Usage
+
+```bash
+
+docker compose config
+docker compose up -d
+
+```
